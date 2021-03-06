@@ -1,5 +1,4 @@
 #include <xc.h>
-mmmmmmmmmmmm
 #define	LCD_RS RD4
 #define LCD_EN RD5
 #define LCD_DATA PORTD
