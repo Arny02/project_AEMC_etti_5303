@@ -5,7 +5,7 @@ __PROG_CONFIG(2,0x0000); 	// config. uC
 
 #define LED1 RB0 
 #define LED2 RB1
-
+fooolder
 
 char *logo  = (char *) "ETTI";
 char *logo1 = (char *) "linia_1";
