@@ -1,4 +1,4 @@
-/*Template Proiect AEMC - ETTI Iasi*/
+/*Template Proiect AEMC - ETTI Iasi gr. 5303*/
 #include <xc.h>
 __PROG_CONFIG(1,0x20D4); 	// config. uC 
 __PROG_CONFIG(2,0x0000); 	// config. uC 
