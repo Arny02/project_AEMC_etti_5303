@@ -1,6 +1,5 @@
 /*Template Proiect AEMC - ETTI Iasi*/
 #include <xc.h>
-1111
 __PROG_CONFIG(1,0x20D4); 	// config. uC 
 __PROG_CONFIG(2,0x0000); 	// config. uC 
 
